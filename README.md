@@ -1,2 +1,12 @@
-# Farmlogs
-Finally, neat an modern changelogs in a webapp!
+# Initial page
+
+## Using Farmlog
+
+Run the following command inside the source directory:
+
+```
+$  node .
+```
+
+
+
